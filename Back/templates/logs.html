@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title></title>
+</head>
+<body>
+<table class="table table-striped">
+    <thead class="thead-dark">
+    <tr class="table-active">
+        {% for header in headers %}
+            <td>{{ header }}</td>
+        {% endfor %}
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in rows %}
+        <tr>
+            {% for el in row %}
+                <td>{{ el.created_at|date:"SHORT_DATE_FORMAT" }} {{ el.created_at|time:"h:i a" }}<br>{{ el.text }}<br>{{ el.data }}
+                </td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>

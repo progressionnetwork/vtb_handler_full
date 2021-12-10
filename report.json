@@ -1,0 +1,561 @@
+{
+    "id": 0,
+    "name": "",
+    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790",
+    "type": "directory",
+    "children": [
+        {
+            "id": 0,
+            "name": "data1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\data1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 0,
+                    "name": "data1042.json",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\data1\\data1042.json",
+                    "type": "file",
+                    "ext": ".json",
+                    "size": 15,
+                    "sha1": "8982ca6aa5486d4b17c0042c62d60af2edc0d204",
+                    "md5": "83619890385b01c25283362acea521dc"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "file1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\file1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 2,
+                    "name": "file1953.exe",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\file1\\file1953.exe",
+                    "type": "file",
+                    "ext": ".exe",
+                    "size": 108,
+                    "sha1": "4d98e3522790a9408e7e85d0e80c3b54a43318e1",
+                    "md5": "292ce5c1baa3da54f5bfd847bdd92fa1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "message1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\message1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 4,
+                    "name": "message4897.jpg",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\message1\\message4897.jpg",
+                    "type": "file",
+                    "ext": ".jpg",
+                    "size": 55,
+                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "param1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 6,
+                    "name": "param3664.xml",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param1\\param3664.xml",
+                    "type": "file",
+                    "ext": ".xml",
+                    "size": 596,
+                    "sha1": "7a5ba6c1f544a3789a16ed3decac18d40b10a1df",
+                    "md5": "3ed47f49a8cdc928236abfd7bd4bba9c"
+                },
+                {
+                    "id": 7,
+                    "name": "param4062.xml",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param1\\param4062.xml",
+                    "type": "file",
+                    "ext": ".xml",
+                    "size": 372,
+                    "sha1": "c4e8b387716bed3a0e24fa382bf13235196e4832",
+                    "md5": "a85667dd68002a741482f8517e9b8cd2"
+                },
+                {
+                    "id": 8,
+                    "name": "param6667.exe",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param1\\param6667.exe",
+                    "type": "file",
+                    "ext": ".exe",
+                    "size": 108,
+                    "sha1": "4d98e3522790a9408e7e85d0e80c3b54a43318e1",
+                    "md5": "292ce5c1baa3da54f5bfd847bdd92fa1"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "param3664_xml_3",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 10,
+                    "name": "param3664_10_16354790",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "id": 10,
+                            "name": "data1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\data1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 10,
+                                    "name": "data1129.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\data1\\data1129.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "name": "file1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\file1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 12,
+                                    "name": "file6079.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\file1\\file6079.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                },
+                                {
+                                    "id": 13,
+                                    "name": "file854.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\file1\\file854.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 15,
+                            "name": "message1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\message1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 15,
+                                    "name": "message4044.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\message1\\message4044.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 17,
+                            "name": "param1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\param1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 17,
+                                    "name": "param5001.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\param1\\param5001.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 19,
+                            "name": "summary1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\summary1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 19,
+                                    "name": "summary5011.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\summary1\\summary5011.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 21,
+                            "name": "tag1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\tag1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 21,
+                                    "name": "tag198.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\tag1\\tag198.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                },
+                                {
+                                    "id": 22,
+                                    "name": "tag6332.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param3664_xml_3\\param3664_10_16354790\\tag1\\tag6332.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "param4062_xml_4",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 26,
+                    "name": "param4062_10_16354790",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "id": 26,
+                            "name": "data1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\data1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 26,
+                                    "name": "data5007.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\data1\\data5007.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 28,
+                            "name": "param1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\param1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 28,
+                                    "name": "param6760.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\param1\\param6760.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 30,
+                            "name": "string1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\string1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 30,
+                                    "name": "string3280.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\string1\\string3280.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                },
+                                {
+                                    "id": 31,
+                                    "name": "string6265.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\string1\\string6265.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 33,
+                            "name": "summary1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\summary1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 33,
+                                    "name": "summary3457.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param4062_xml_4\\param4062_10_16354790\\summary1\\summary3457.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "summary1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\summary1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 37,
+                    "name": "summary4538.mp3",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\summary1\\summary4538.mp3",
+                    "type": "file",
+                    "ext": ".mp3",
+                    "size": 2752,
+                    "sha1": "323bf258123720a351a543f85756f0ff0d8f2438",
+                    "md5": "916bdaf17e7f249016a96de4e3602f42"
+                },
+                {
+                    "id": 38,
+                    "name": "summary7072.zip",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\summary1\\summary7072.zip",
+                    "type": "file",
+                    "ext": ".zip",
+                    "size": 55,
+                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "summary7072_zip_7",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\summary7072_zip_7",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 40,
+                    "name": "image.jpg",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\summary7072_zip_7\\image.jpg",
+                    "type": "file",
+                    "ext": ".jpg",
+                    "size": 55,
+                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "text1",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text1",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 42,
+                    "name": "text2692.xml",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text1\\text2692.xml",
+                    "type": "file",
+                    "ext": ".xml",
+                    "size": 372,
+                    "sha1": "c4e8b387716bed3a0e24fa382bf13235196e4832",
+                    "md5": "a85667dd68002a741482f8517e9b8cd2"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "text2692_xml_8",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 44,
+                    "name": "text2692_10_16354790",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790",
+                    "type": "directory",
+                    "children": [
+                        {
+                            "id": 44,
+                            "name": "data1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\data1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 44,
+                                    "name": "data5867.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\data1\\data5867.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 46,
+                            "name": "param1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\param1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 46,
+                                    "name": "param4402.rar",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\param1\\param4402.rar",
+                                    "type": "file",
+                                    "ext": ".rar",
+                                    "size": 55,
+                                    "sha1": "6cf5036e284ea24846672f5183c814825c730771",
+                                    "md5": "acd1ee9fa45660a1a2ec19a9a10e9c11"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 48,
+                            "name": "string1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\string1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 48,
+                                    "name": "string4003.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\string1\\string4003.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                },
+                                {
+                                    "id": 49,
+                                    "name": "string4370.zip",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\string1\\string4370.zip",
+                                    "type": "file",
+                                    "ext": ".zip",
+                                    "size": 55,
+                                    "sha1": "a2eba71cc906f077b512c0c88ab00b2796785269",
+                                    "md5": "7fcb3e54633f1e0b3991f7020ec67b53"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 51,
+                            "name": "summary1",
+                            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\summary1",
+                            "type": "directory",
+                            "children": [
+                                {
+                                    "id": 51,
+                                    "name": "summary5144.unknown",
+                                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\text2692_xml_8\\text2692_10_16354790\\summary1\\summary5144.unknown",
+                                    "type": "file",
+                                    "ext": ".unknown",
+                                    "size": 55,
+                                    "sha1": "6769cddc07ab2bd6821bf8db706687e6c3884bb4",
+                                    "md5": "47dd6b4fa62240af60addde89c32bd38"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "xml_data": {
+        "input_xml_file": "d:\\projects\\test\\python\\vtb_handler\\media\\xmls\\2_sample_bn2d9r.xml",
+        "output_xml_file": "/processed/2_sample_bn2d9r_10_16354790.xml",
+        "malicious_objects": 2,
+        "input_xml_size": 5914,
+        "uniq_id": "10_16354790",
+        "output_xml_size": 4383,
+        "total_objects": 28,
+        "malicious_list": [
+            "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\file1\\file1953.exe",
+            "D:\\Projects\\test\\python\\vtb_handler\\media\\extracted\\2_sample_bn2d9r_10_16354790\\param1\\param6667.exe"
+        ],
+        "total_archives": 13,
+        "tags": [
+            "entry",
+            "string",
+            "summary",
+            "assembly",
+            "members",
+            "root",
+            "param",
+            "meta",
+            "text",
+            "message",
+            "file",
+            "data"
+        ],
+        "malicious_folder": "media/tmp/201700",
+        "malicious_paths": {
+            "id": 56,
+            "name": "",
+            "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\tmp\\201700",
+            "type": "directory",
+            "children": [
+                {
+                    "id": 56,
+                    "name": "file1953.exe",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\tmp\\201700\\file1953.exe",
+                    "type": "file",
+                    "ext": ".exe",
+                    "size": 108,
+                    "sha1": "4d98e3522790a9408e7e85d0e80c3b54a43318e1",
+                    "md5": "292ce5c1baa3da54f5bfd847bdd92fa1"
+                },
+                {
+                    "id": 57,
+                    "name": "param6667.exe",
+                    "path": "D:\\Projects\\test\\python\\vtb_handler\\media\\tmp\\201700\\param6667.exe",
+                    "type": "file",
+                    "ext": ".exe",
+                    "size": 108,
+                    "sha1": "4d98e3522790a9408e7e85d0e80c3b54a43318e1",
+                    "md5": "292ce5c1baa3da54f5bfd847bdd92fa1"
+                }
+            ]
+        }
+    }
+}
